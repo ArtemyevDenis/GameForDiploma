@@ -35,7 +35,7 @@ Player stats are:
 
 ![alt text][1]
 
-[1]: image.png "Scheme of fear and lighrt source"
+[1]: ReadmeImage/image.png "Scheme of fear and lighrt source"
 
 More detailed about fear. As we can dee on the picture above, where X - the source of lighting, inside the first circle fear won't be increased, int the second circle fear wil be slowly increased. Outside both circles fear will be highly increased. 
 High value of fear will decrease your speed, and increase your chance of missing when you attack mob.
