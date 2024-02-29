@@ -51,7 +51,7 @@ High value of fear will decrease your speed, and increase your chance of missing
 
 | What to do | Done? |
 |-------|:----------:|
-|Find assets      |  <input type="checkbox" disabled/> done|
+|Find assets      |-  [ ] |
 |Work on rigging/animations      | <input type="checkbox" disabled/> done   |
 |Create movement|<input type="checkbox" disabled/> done|
 |Create mobs movement|<input type="checkbox" disabled/> done|
