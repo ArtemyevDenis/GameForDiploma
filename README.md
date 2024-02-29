@@ -51,23 +51,23 @@ High value of fear will decrease your speed, and increase your chance of missing
 
 | What to do | Done? |
 |-------|:----------:|
-|Find assets      |-  [ ] |
-|Work on rigging/animations      | <input type="checkbox" disabled/> done   |
-|Create movement|<input type="checkbox" disabled/> done|
-|Create mobs movement|<input type="checkbox" disabled/> done|
-|Work on UI|<input type="checkbox" disabled/> done|
-|Create map (normal)|<input type="checkbox" disabled/> done|
-|Player stats behaviour|<input type="checkbox" disabled/> done|
-|Mobs logic|<input type="checkbox" disabled/> done|
-|Add Fear|<input type="checkbox" disabled/> done|
-|Work with light|<input type="checkbox" disabled/> done|
-|Add day/night|<input type="checkbox" disabled/> done|
-|Rebalance???????|<input type="checkbox" disabled/> done|
-|Gathering loot/resources|<input type="checkbox" disabled/> done|
-|Add upgrading system|<input type="checkbox" disabled/> done|
-|Add crafting System|<input type="checkbox" disabled/> done|
-|REBALANCE???????|<input type="checkbox" disabled/> done|
-|To be continued|<input type="checkbox" disabled/> done|
+|Find assets      |No|
+|Work on rigging/animations      |No|
+|Create movement|No|
+|Create mobs movement|No|
+|Work on UI|No|
+|Create map (normal)|No|
+|Player stats behaviour|No|
+|Mobs logic|No|
+|Add Fear|No|
+|Work with light|No|
+|Add day/night|No|
+|Rebalance???????|No|
+|Gathering loot/resources|No|
+|Add upgrading system|No|
+|Add crafting System|No|
+|REBALANCE???????|No|
+|To be continued|No|
 
 
 
