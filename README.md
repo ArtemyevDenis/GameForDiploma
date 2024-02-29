@@ -9,11 +9,11 @@
 -   Perspective : 2.5D (or 3D?????)
 -   Map : Restricted area
 
-##### Main goal of the game
+#### Main goal of the game
 
 Player must survive as long as he can. So time is the main goal of the game.
 
-##### Antoganist
+#### Antoganist
 
 Main player's enemys are gonna be wild animals, such as: 
 
@@ -23,7 +23,7 @@ Main player's enemys are gonna be wild animals, such as:
 -    Boss: ?????? (i don't know)
 
 
-##### Protagnist
+#### Protagnist
 
 Main player is a man, with melee type of damage (sword or axe);
 Player stats are: 
@@ -40,7 +40,7 @@ Player stats are:
 More detailed about fear. As we can dee on the picture above, where X - the source of lighting, inside the first circle fear won't be increased, int the second circle fear wil be slowly increased. Outside both circles fear will be highly increased. 
 High value of fear will decrease your speed, and increase your chance of missing when you attack mob.
 
-##### Features
+#### Features
 -   Gathering resources (wood, meat, milk, ...)
 -   Upgrading your base/weapon
 -   Eating
